@@ -1,14 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc385836-aaee-4252-9832-f33a8afeb800" name="Changes" comment="" />
+    <list default="true" id="fc385836-aaee-4252-9832-f33a8afeb800" name="Changes" comment="New Comments3">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2JGlBK340sKvx0IbAItNaukVpzz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -31,6 +48,28 @@
       <option name="presentableId" value="Default" />
       <updated>1671712164673</updated>
     </task>
+    <task id="LOCAL-00001" summary="New Comments">
+      <created>1671712242637</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671712242638</updated>
+    </task>
+    <task id="LOCAL-00002" summary="New Comments2">
+      <created>1671712327107</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1671712327107</updated>
+    </task>
+    <task id="LOCAL-00003" summary="New Comments3">
+      <created>1671712518311</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1671712518311</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -43,5 +82,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New Comments" />
+    <MESSAGE value="New Comments2" />
+    <MESSAGE value="New Comments3" />
+    <option name="LAST_COMMIT_MESSAGE" value="New Comments3" />
   </component>
 </project>
